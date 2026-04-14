@@ -22,9 +22,7 @@
 
 | CCNA: Introduction to Networks | Getting Started with Cisco Packet Tracer |
 |---|---|
-| 📄 [**CCNA: Introduction to Networks**](Cisco%20Networking%20Academy/CCNA-_Introduction_to_Networks_certificate_nattakron-r-kkumail-com_b8f2d2e3-9f98-43a3-8d4e-62b7d3cc4e5a.pdf) | 📄 [**Getting Started with Cisco Packet Tracer**](Cisco%20Networking%20Academy/Getting_Started_with_Cisco_Packet_Tracer_certificate_nattakron-r-kkumail-com_72a6144a-3bde-4515-aab5-86ab7e040fab.pdf) |
-| ใบรับรองความรู้พื้นฐานด้านเครือข่ายคอมพิวเตอร์ | ใบรับรองทักษะการใช้โปรแกรมจำลองเครือข่าย |
-
+| 📄 [**CCNA: Introduction to Networks**](Cisco%20Networking%20AcademyCCNA-_Introduction_to_Networks_certificate_thanakit-l-kkumail-com_c61e5ccc-bc4f-4986-8b4e-a92048cac64e.pdf) 
 
 ---
 
@@ -32,7 +30,7 @@
 
 ประวัติการทำแบบทดสอบ Checkpoint Exams และความคืบหน้าในการเรียน
 
-![Gradebook](Cisco%20Networking%20Academy/Checkpoint_Exam.png)
+![Gradebook](Cisco%20Networking%20Academy/checkpointexam.png)
 
 ---
 
@@ -45,15 +43,15 @@
 
 - **งานปฏิบัติการรายสัปดาห์:** รวบรวม Source Code จากการทำ Lab ต่างๆ เช่น การเขียนโปรแกรม Socket, TCP/UDP Client-Server และ Opportunistic Routing
 
-[กดที่นี่](https://github.com/KiwwYs/networkprogramming2025)
+[กดที่นี่]((https://github.com/Kadsuadang/networkprogramming2025))
 
 ### 📝 Assignments
 
 แบบฝึกหัดและการบ้านภาคทฤษฎี
 
-- [Personal Essay](Assignment/personal_essay.pdf)
+- [Assignment 1](Assignment/Assignment 1.pdf)
 - [Assignment 2](Assignment/Assignment_2.pdf)
-- [Week 3 Sample (Packet Tracer File)](Assignment/Assigment_3_673380512-7.pkt)
+- [Week 3 Sample (Packet Tracer File)](Assignment/assignment3_673380269-0.pkt)
 - [Assignment 4](Assignment/Assignment_4.pdf)
 
 ### 🔬 Lab Reports
@@ -68,4 +66,3 @@
 
 ---
 
-จัดทำโดย 💻 **นายณัฐกร รุ่งฟ้า**
