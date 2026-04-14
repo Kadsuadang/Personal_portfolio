@@ -20,7 +20,7 @@
 
 สามารถคลิกที่รูปภาพเพื่อดูไฟล์ความละเอียดสูงได้
 
-| CCNA: Introduction to Networks | Getting Started with Cisco Packet Tracer |
+| CCNA: Introduction to Networks 
 |---|---|
 | 📄 [**CCNA: Introduction to Networks**](Cisco%20Networking%20AcademyCCNA-_Introduction_to_Networks_certificate_thanakit-l-kkumail-com_c61e5ccc-bc4f-4986-8b4e-a92048cac64e.pdf) 
 
@@ -37,7 +37,7 @@
 
 ### 🚀 Final Project: Brain-To-Brain Network (BBN)
 
-- **โครงงานกลุ่ม (Group Project):[(path/to/final-project))](https://github.com/zamzibedsingha/BBN-Project-Group13)
+- **โครงงานกลุ่ม (Group Project):[(final-project))](https://github.com/zamzibedsingha/BBN-Project-Group13)
 
 ### 💻 Network Programming Labs 2025
 
@@ -49,20 +49,18 @@
 
 แบบฝึกหัดและการบ้านภาคทฤษฎี
 
-- [Assignment 1](Assignment/Assignment 1.pdf)
-- [Assignment 2](Assignment/Assignment_2.pdf)
-- [Week 3 Sample (Packet Tracer File)](Assignment/assignment3_673380269-0.pkt)
-- [Assignment 4](Assignment/Assignment_4.pdf)
+- [Assignment 1](Assignment/Assignment%201.pdf)
+- [Assignment 2](Assignment/Assignment%202.pdf)
+- [Assignment 4](Assignment/Assignment%204.pdf)
+- [Assignment 3](Assignment/assignment3_673380269-0.pkt)
 
 ### 🔬 Lab Reports
 
 รายงานผลการทดลองปฏิบัติการประจำสัปดาห์
 
-- [LAB 1](Lab/LAB_1.pdf)
-- [LAB 2](Lab/LAB2.pdf)
-- [LAB 3 - MIME](Lab/Lab3_MIME.pdf)
-- [LAB 4](Lab/LAB4_bro.pdf)
-- [LAB 5](Lab/Network_Lab5.pdf)
-
----
+- [Lab 1](Lab/LAB%201.pdf)
+- [Lab 2](Lab/LAB%202.pdf)
+- [Lab 4](Lab/LAB%204.pdf)
+- [Lab 5](Lab/LAB%205.pdf)
+- [Lab 3 MIME](Lab/Lab3%20—%20MIME.pdf)
 
